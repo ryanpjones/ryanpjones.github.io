@@ -1,0 +1,8 @@
+Contact Ryan
+------------
+
+
+<!-- Linked in button -->
+<a href="www.linkedin.com/pub/ryan-p-jones/30/566/964/" class="btn btn-default btn-lg">
+<i class="fa fa-linkedin-square fa-fw"></i> LinkedIn
+</a>
