@@ -1,0 +1,32 @@
+<div id="slideshow-carousel" class="carousel slide" data-ride="carousel" data-interval="4000">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    {% for slide in site.data.slides %}
+    <li data-target="#slideshow-carousel"
+        data-slide-to="{{ forloop.index0 }}"
+        {% if forloop.first %}class="active"{% endif %}
+        ></li>
+    {% endfor %}
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+    {% for slide in site.data.slides %}
+    <div class="item {% if forloop.first %}active{% endif %}">
+      <img class="slideshow-image" src="{{ slide.path }}" alt="{{ slide.title }}">
+      <div class="carousel-caption">
+        <h3>{{ slide.title }}</h3>
+      </div>
+    </div>
+    {% endfor %}
+
+  </div>
+
+  <!-- Controls -->
+  <a class="left carousel-control" href="#slideshow-carousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+  </a>
+  <a class="right carousel-control" href="#slideshow-carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+  </a>
+</div>
