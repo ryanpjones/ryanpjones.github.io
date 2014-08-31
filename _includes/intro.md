@@ -1,5 +1,5 @@
 # Ryan P. Jones
 {: .brand-heading}
 
-Stage Manager
+AEA Stage Manager
 {: .intro-text}
