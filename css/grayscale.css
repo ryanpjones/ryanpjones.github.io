@@ -236,6 +236,19 @@ a:focus {
   color: #000000;
   background-color: #219ab3;
 }
+.btn-default-filled {
+  border: 1px solid #219ab3;
+  color: #219ab3;
+  background-color: transparent;
+  background-color: #ffffff;
+}
+.btn-default-filled:hover,
+.btn-default-filled:focus {
+  border: 1px solid #219ab3;
+  outline: none;
+  color: #000000;
+  background-color: #219ab3;
+}
 ul.banner-social-buttons {
   margin-top: 0;
 }
