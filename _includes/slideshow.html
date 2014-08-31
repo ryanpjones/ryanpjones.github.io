@@ -13,7 +13,7 @@
   <div class="carousel-inner">
     {% for slide in site.data.slides %}
     <div class="item {% if forloop.first %}active{% endif %}">
-      <img class="slideshow-image" src="{{ slide.path }}" alt="{{ slide.title }}" style="width:100%">
+      <img class="slideshow-image" src="/static/img{{ slide.path }}" alt="{{ slide.title }}" style="width:100%">
       <div class="carousel-caption">
         <h3>{{ slide.title }}</h3>
       </div>
