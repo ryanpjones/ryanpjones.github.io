@@ -1,1 +1,1 @@
-lessc _less/grayscale.less > css/grayscale.css
+lessc _less/grayscale.less > static/css/grayscale.css
