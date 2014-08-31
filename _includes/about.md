@@ -3,8 +3,8 @@ About Ryan
 
 While earning his BFA in Performing Arts emphasizing in Technical Theatre from Southeast Missouri State University, Ryan P. Jones worked in many aspects of the theatre.
 His main area of study was Stage Management, but he acquired experience in other areas as well.
-Ryan was a costume shop assistant, stitching for many Southeast shows including  Little Shop of Horrors, Carousel, Once on This Island, and Into The Woods.
-He also served as Lighting Designer for Fall for Dance 2010 and 2012, Scenic Designer for Murphy’s Law (an original play by Kenneth L. Stilson), and Properties Master for Psycho Beach Party.
+Ryan was a costume shop assistant, stitching for many Southeast shows including *Little Shop of Horrors*, *Carousel*, *Once on This Island*, and *Into The Woods*.
+He also served as Lighting Designer for *Fall for Dance 2010* and *2012*, Scenic Designer for *Murphy’s Law* (an original play by Kenneth L. Stilson), and Properties Master for *Psycho Beach Party*.
 
 Outside of his academic work, Ryan has traveled to work at regional theatres across the US.
 In the Summer of 2010, he traveled to Olympia, Washington to work as a stitcher at Capital Playhouse for their Summer Kids at Play season.
