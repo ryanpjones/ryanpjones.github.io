@@ -8,7 +8,7 @@ Outside of his academic work, Ryan has traveled to work at regional theatres acr
 The following year, Ryan moved to Chicago where he joined the creative teams of Jedlicka Performing Arts Center, Moraine Valley Fine Arts Center, and the Plagiarists.  In 2014, he was thrilled to join the Actors Equity Association while working as Assistant Stage Manager on Ozark Actors Theatre’s 27th summer season.  Today, he is pursuing his MFA in Stage Management from Wayne State University in Detroit, MI, where he anticipates graduation in 2017.
 
 ![Ryan P. Jones](/static/img/Headshot.jpg){: .img-thumbnail}
-{: style="padding-top:50px" #resume}
+{: style="padding-top:60px" #resume}
 
 <a href="/download/Ryan-P-Jones_Resume_8-25-14.pdf" target="_blank" class="btn btn-default btn-lg">
 <i class="fa fa-file-pdf-o fa-fw"></i> View My Resume
