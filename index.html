@@ -9,8 +9,10 @@ title: Ryan P. Jones
     <div class="container">
       <div class="row">
         <div class="col-md-8 col-md-offset-2">
-          <h1 class="brand-heading">Ryan P. Jones</h1>
-          <p class="intro-text">Stage Manager</p>
+
+          {% capture intro %}{% include intro.md %}{% endcapture %}
+          {{ intro | markdownify }}
+
         </div>
       </div>
     </div>
