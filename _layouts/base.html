@@ -36,10 +36,10 @@
 
     {{ content }}
 
-    <!-- Footer -->
     <footer>
       <div class="container text-center">
-        <p><small>Copyright &copy; Ryan P. Jones 2014</small></p>
+        {% capture footer %}{% include footer.md %}{% endcapture %}
+        {{ footer | markdownify }}
       </div>
     </footer>
 
