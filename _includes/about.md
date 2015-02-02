@@ -20,7 +20,7 @@ Today, he is pursuing his MFA in Stage Management from Wayne State University in
 ![Ryan P. Jones](/static/img/Headshot.jpg){: .img-thumbnail}
 {: style="padding-top:60px" #resume}
 
-<a href="/download/Ryan-P-Jones_Resume_8-31-14.pdf" target="_blank" class="btn btn-default btn-lg">
+<a href="/download/Ryan-P-Jones_Resume_2-1-15.pdf" target="_blank" class="btn btn-default btn-lg">
 <i class="fa fa-file-pdf-o fa-fw"></i> View My Resume
 </a>
 
