@@ -2,7 +2,7 @@ Contact Ryan
 ------------
 
 <!-- Resume button -->
-<a href="/download/Ryan-P-Jones_Resume_2-1-15.pdf" target="_blank" class="btn btn-default btn-lg">
+<a href="/download/Ryan-P-Jones_Resume_9-16-15.pdf" target="_blank" class="btn btn-default btn-lg">
 <i class="fa fa-file-pdf-o fa-fw"></i> My Resume
 </a>
 <!-- Linked in button -->
